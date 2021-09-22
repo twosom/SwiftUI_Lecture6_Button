@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5CCE9192CD5CF6AFB4985E77"
+               BuildableName = "SwiftUI_Lecture6_Button.app"
+               BlueprintName = "SwiftUI_Lecture6_Button"
+               ReferencedContainer = "container:SwiftUI_Lecture6_Button.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5CCE9192CD5CF6AFB4985E77"
+            BuildableName = "SwiftUI_Lecture6_Button.app"
+            BlueprintName = "SwiftUI_Lecture6_Button"
+            ReferencedContainer = "container:SwiftUI_Lecture6_Button.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
